@@ -126,3 +126,17 @@ a:hover {
 #kritik-saran {
     color: #0d0d0d;
 }
+
+footer {
+    background-color: #0d0d0d;
+    padding: 30px 0;
+}
+
+footer a {
+    color: #ffffff;
+}
+
+footer a:hover {
+    color: #ffffff;
+    opacity: 0.7;
+}
