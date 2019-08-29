@@ -1,0 +1,128 @@
+body {
+    text-align: center;
+    margin: 0 auto;
+    font-family: 'Lato', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6{
+    margin-bottom: 0;
+}
+
+.fullwidth {
+    width: 100%;
+    min-height: 100vh;
+    color: #ffffff;
+}
+
+img {
+    object-fit: contain;
+}
+
+#welcome {
+    background-color: #0d0d0d;
+}
+
+#bio {
+    background-color: #5bcaca;
+}
+
+#makanan-favorit {
+    background-color: #fac431;
+}
+
+#get-ebook {
+    background-color: #bacc3e;
+}
+
+.fa {
+    padding: 16px;
+    font-size: 24px;
+    width: 56px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+  }
+  
+.fa:hover {
+    opacity: 0.7;
+    color: #0d0d0d;
+}
+
+.fa-facebook {
+    background: #ffffff;
+    color: #222222;
+}
+
+.fa-twitter {
+    background: #ffffff;
+    color: #222222;
+}
+
+.fa-linkedin {
+    background: #ffffff;
+  color: #222222;
+}
+
+.fa-instagram {
+    background: #ffffff;
+  color: #222222;
+}
+
+.fa-github {
+    background: #ffffff;
+    color: #222222;
+}
+
+.foto-makanan {
+    width: 240px;
+    height: 240px;
+    object-fit: cover;
+    border-radius: 5px;
+    margin-right: 16px;
+}
+
+#profile-picture {
+    border-radius: 50%;
+    margin-bottom: 16px;
+}
+
+#image-background h1 {
+    font-size: 48px;
+}
+
+.card-padding-custom {
+    padding: 30px;
+}
+
+.content {
+    padding: 50vh 0;
+}
+
+.tambahan-iseng {
+    position: relative;
+    margin-top: 50px;
+}
+
+.subscribe {
+    position: relative;
+    height: 250px;
+    margin-top: 50px;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+#button-submit {
+    width:170px;
+    height: 46px;
+}
+
+.carousel-indicators li {
+    background-color: #e49216;
+}
+
+#kritik-saran {
+    color: #0d0d0d;
+}
